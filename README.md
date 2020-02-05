@@ -3,3 +3,5 @@
 
 ![Comparison](Compare.jpg)
 
+**Detected Skin** vs **Real Photo**
+
