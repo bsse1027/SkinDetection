@@ -1,5 +1,5 @@
 # SkinDetection
-**Skin Detection Algorithm** impelementation using *Naive-Bayes*.
+**Skin Detection** impelementation using *Naive-Bayes*.
 
 **Detected Skin** vs **Real Photo**
 
